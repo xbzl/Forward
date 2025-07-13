@@ -1,12 +1,11 @@
 var WidgetMetadata = {
-  id: "ti.bemarkt.vod.maccms",
+  id: "wuming.VOD",
   title: "VOD",
   description: "根据Keyword,获取 VOD 影视数据",
   author: "无名",
-  site: "https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets",
+  site: "https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets/README.md",
   version: "1.0.0",  // 更新版本号
   requiredVersion: "0.0.1",
-  illustrate:"致谢",
   modules: [
     {
       title: "获取视频列表",
