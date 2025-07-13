@@ -1,12 +1,11 @@
 var WidgetMetadata = {
   id: "ti.bemarkt.vod.maccms",
   title: "VOD",
-  description: "通过key word 获取 VOD 影视数据",
-  author: "wuming",
-  site: "https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets",
-  version: "1.0.0",  // 更新版本号
+  description: "获取 VOD 影视数据",
+  author: "Ti",
+  site: "https://github.com/bemarkt/scripts/tree/master/provider/Forward",
+  version: "1.2.0",  // 更新版本号
   requiredVersion: "0.0.1",
-  //illustrate:"在此致谢",
   modules: [
     {
       title: "获取视频列表",
@@ -141,7 +140,7 @@ var WidgetMetadata = {
           name: "wd",
           title: "关键词",
           type: "input",
-          description: "搜索的影视名称",
+          description: "搜索的电影名称",
           value: "",
         },
         {
@@ -149,9 +148,6 @@ var WidgetMetadata = {
           title: "页码",
           type: "page",
           value: "1",
-        },
-        {
-          description: "在此感谢Ti作者,聚合搜索是在Ti模块上新增的功能!",
         }
       ]
     }
@@ -254,9 +250,6 @@ var WidgetMetadata = {
         title: "页码",
         type: "page",
         value: "1",
-      },
-      {
-          description: "在此感谢Ti作者,聚合搜索是在Ti模块上新增的功能!",
       },
     ],
   },
