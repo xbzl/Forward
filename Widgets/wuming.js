@@ -149,7 +149,7 @@ var WidgetMetadata = {
           title: "页码",
           type: "page",
           value: "1",
-        }
+        },
         {
           description: "在此感谢Ti作者,聚合搜索是在Ti模块上新增的功能!",
         }
