@@ -6,7 +6,7 @@ var WidgetMetadata = {
   site: "https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets",
   version: "1.0.0",  // 更新版本号
   requiredVersion: "0.0.1",
-  illustrate:"在此致谢",
+  //illustrate:"在此致谢",
   modules: [
     {
       title: "获取视频列表",
