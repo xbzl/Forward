@@ -1,10 +1,10 @@
 var WidgetMetadata = {
   id: "wuming.VOD",
   title: "VOD",
-  description: "根据Keyword,获取 VOD 影视数据",
+  description: "根据Keyword,用于VOD",
   author: "无名",
   site: "https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets/README.md",
-  version: "1.0.0",  // 更新版本号
+  version: "1.0.0",
   requiredVersion: "0.0.1",
   modules: [
     {
