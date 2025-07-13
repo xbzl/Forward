@@ -1,10 +1,10 @@
 var WidgetMetadata = {
   id: "ti.bemarkt.vod.maccms",
   title: "VOD",
-  description: "获取 VOD 影视数据",
-  author: "Ti",
-  site: "https://github.com/bemarkt/scripts/tree/master/provider/Forward",
-  version: "1.2.0",  // 更新版本号
+  description: "根据 Keyword 获取 VOD 影视数据",
+  author: "无名",
+  site: "https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets",
+  version: "1.0.0",  // 更新版本号
   requiredVersion: "0.0.1",
   modules: [
     {
@@ -140,7 +140,7 @@ var WidgetMetadata = {
           name: "wd",
           title: "关键词",
           type: "input",
-          description: "搜索的电影名称",
+          description: "搜索的影视名称",
           value: "",
         },
         {
