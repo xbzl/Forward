@@ -12,7 +12,8 @@
       "author": "无名",
       "url": "https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets/wuming.js"  
     },
-    {"id": "forward.combined.media.lists",
+    {
+      "id": "forward.combined.media.lists",
       "title": "影视榜单",
       "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
       "requiredVersion": "0.0.1",
