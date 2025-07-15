@@ -1,6 +1,6 @@
 {
-  "title": "Tom之家",
-  "description": "仅用于Tom成员diy,不可外传!",
+  "title": "无名",
+  "description": "123",
   "icon": "https://assets.vvebo.vip/scripts/icon.png",
   "widgets": [
     {
@@ -9,7 +9,7 @@
       "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
       "requiredVersion": "0.0.1",
       "version": "1.2.7",
-      "author": "Tom",
+      "author": "阿米诺斯",
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/ForwardWidgets.js"
     },
    	{
@@ -18,7 +18,7 @@
       "description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、各项榜单、今日推荐等",
       "requiredVersion": "0.0.1",
       "version": "1.0.3",
-      "author": "Tom",
+      "author": "huangxd",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/zhuijurili.js"
     },
     {
@@ -27,7 +27,7 @@
       "description": "解析Trakt想看、在看、已看、片单、追剧日历以及根据个人数据生成的个性化推荐",
       "requiredVersion": "0.0.1",
       "version": "1.0.11",
-      "author": "Tom",
+      "author": "huangxd",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/trakt.js"
     },
     {
@@ -36,7 +36,7 @@
       "description": "解析豆瓣想看、在看、已看以及根据个人数据生成的个性化推荐",
       "requiredVersion": "0.0.1",
       "version": "1.0.13",
-      "author": "Tom",
+      "author": "huangxd",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/douban.js"
     },
     {
@@ -45,7 +45,7 @@
       "description": "解析雅图每日放送更新以及各类排行榜",
       "requiredVersion": "0.0.1",
       "version": "1.0.6",
-      "author": "Tom",
+      "author": "huangxd",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/yatu.js"
     },
     {
@@ -54,16 +54,17 @@
       "description": "获取最新热播剧和热门影片推荐",
       "requiredVersion": "0.0.1",
       "version": "1.1.6",
-      "author": "Tom",
+      "author": "两块",
       "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js"
     },
     {
       "id": "bangumi_charts_tmdb_v3",
       "title": "Bangumi 热门榜单",
-      "description": "获取Bangumi近期热门、每日放送数据，支持榜单筛选。",
+      "description": "获取Bangumi近期热门、每日放送数据，支持榜单筛选。
+",
       "requiredVersion": "0.0.1",
       "version": "2.0.0", 
-      "author": "Tom",
+      "author": "Autism",
       "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
     },
     {
@@ -72,7 +73,7 @@
       "description": "聚合 IMDb 热门影视资源",
       "requiredVersion": "0.0.1",
       "version": "2.0.0",
-      "author": "Tom",
+      "author": "Autism",
       "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/IMDb.js"
     },
     {
@@ -81,7 +82,7 @@
       "description": "获取 TMDB 的榜单数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.4",
-      "author": "Tom",
+      "author": "Evan",
       "url": "https://github.com/EmrysChoo/ForwardWidgets/raw/refs/heads/main/Widgets/person_movie.js"
     },
     {
@@ -90,7 +91,7 @@
       "description": "解析豆瓣片单，获取视频信息",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "Tom",
+      "author": "pack1r",
       "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/douban.js"
     },
     {
@@ -99,7 +100,7 @@
       "description": "IMDB",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "Tom",
+      "author": "pack1r",
       "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/imdb.js"
     },
 	{
@@ -108,7 +109,7 @@
       "description": "获取 Jable 视频",
       "requiredVersion": "0.0.1",
       "version": "1.0.8",
-      "author": "Tom",
+      "author": "nibiru",
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/jable.js"
     },
     {
@@ -117,7 +118,7 @@
       "description": "91Porn",
       "requiredVersion": "0.0.1",
       "version": "0.9.4",
-      "author": "Tom",
+      "author": "匿名",
       "url": "https://github.com/baranwang/forward-widget/releases/latest/download/91porn.js"
     },
     {
@@ -126,7 +127,7 @@
       "description": "XVideos",
       "requiredVersion": "0.0.1",
       "version": "0.9.4",
-      "author": "Tom",
+      "author": "匿名",
       "url": "https://github.com/baranwang/forward-widget/releases/latest/download/xvideos.js"
     },
     {
@@ -135,7 +136,7 @@
       "description": "在线观看Pornhub",
       "requiredVersion": "0.0.1",
       "version": "1.0.5",
-      "author": "Tom",
+      "author": "海带",
       "url": "https://raw.githubusercontent.com/Madai-v/ForwardWidgets/refs/heads/main/Widgets/ph.js"
     },
     {
@@ -144,7 +145,7 @@
       "description": "获取 JAVDay 推荐",
       "requiredVersion": "0.0.1",
       "version": "1.1.0",
-      "author": "Tom",
+      "author": "Ti",
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/javday.js"
     },
     {
@@ -153,7 +154,7 @@
       "description": "获取 JAVRate 推荐",
       "requiredVersion": "0.0.1",
       "version": "2.1.0",
-      "author": "Tom",
+      "author": "Ti",
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/javrate.js"
     },
     {
@@ -162,7 +163,7 @@
       "description": "获取 VOD 影视数据",
       "requiredVersion": "0.0.1",
       "version": "1.1.0",
-      "author": "Tom",
+      "author": "Ti",
       "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/vod.js"
     },
     {
@@ -171,7 +172,7 @@
       "description": "获取 RSS 播客数据",
       "requiredVersion": "0.0.1",
       "version": "2.1.0",
-      "author": "Tom",
+      "author": "Ti",
       "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
     },
     {
@@ -180,7 +181,7 @@
       "description": "解析直播订阅链接",
       "requiredVersion": "0.0.1",
       "version": "1.0.8",
-      "author": "Tom",
+      "author": "huangxd",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/live.js"
     },
     {
@@ -189,7 +190,7 @@
       "description": "获取在线电影、电视剧、动漫、综艺和短剧",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "Tom",
+      "author": "两块",
       "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/MovieParadise.js"
     },
     {
@@ -198,7 +199,7 @@
       "description": "获取热门电视直播频道",
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
-      "author": "Tom",
+      "author": "两块",
       "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
     }  
   ]
