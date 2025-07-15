@@ -105,6 +105,10 @@ var WidgetMetadata = {
               title: "先锋资源",
               value: "http://60.204.225.89:1122/api.php/provide/vod/",
             },
+            {
+              title: "低端影视",
+              value: "http://ddys.pro/",
+            },
           ],
         },
         {
@@ -235,6 +239,10 @@ var WidgetMetadata = {
           {
             title: "LSP",
             value: "https://apilsbzy1.com/api.php/provide/vod",
+          },
+          {
+              title: "低端影视",
+              value: "http://ddys.pro/",
           },
         ],
       },
@@ -762,7 +770,8 @@ async function multiSourceSearch(params = {}) {
     "https://caiji.dbzy.tv/api.php/provide/vod/at/josn/",
     "https://alivod.com/api.php/provide/vod/",
     "https://apilsbzy1.com/api.php/provide/vod",
-    "http://60.204.225.89:1122/api.php/provide/vod/"
+    "http://60.204.225.89:1122/api.php/provide/vod/",
+    "http://ddys.pro/"
   ];
   
   // 用于存储所有搜索结果
