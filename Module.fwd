@@ -3,15 +3,15 @@
   "description": "123",
   "icon": "https://assets.vvebo.vip/scripts/icon.png",
   "widgets": [
-    // {
-    //   "id": "wuming.VOD",
-    //   "title": "VOD",
-    //   "description": "根据Keyword,用于VOD",
-    //   "requiredVersion": "0.0.1",
-    //   "version": "1.0.0",
-    //   "author": "无名",
-    //   "url": "https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets/wuming.js"  
-    // },
+    {
+      "id": "wuming.VOD",
+      "title": "VOD",
+      "description": "根据Keyword,用于VOD",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "无名",
+      "url": "https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets/wuming.js"  
+    },
     {
       "id": "forward.combined.media.lists",
       "title": "影视榜单",
